@@ -12,3 +12,4 @@ c:\Users\austin\advanced_programing\advanced_programing\week_2\week_2_lab\obj\De
 c:\Users\austin\advanced_programing\advanced_programing\week_2\week_2_lab\obj\Debug\net8.0\week_2_lab.pdb
 c:\Users\austin\advanced_programing\advanced_programing\week_2\week_2_lab\obj\Debug\net8.0\week_2_lab.genruntimeconfig.cache
 c:\Users\austin\advanced_programing\advanced_programing\week_2\week_2_lab\obj\Debug\net8.0\ref\week_2_lab.dll
+c:\Users\austin\advanced_programing\advanced_programing\week_2\week_2_lab\obj\Debug\net8.0\week_2_lab.sourcelink.json
