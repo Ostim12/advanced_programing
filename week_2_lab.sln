@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week_2", "week_2", "{9ADF91
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week_2_lab", "week_2\week_2_lab\week_2_lab.csproj", "{495D35C9-7AD6-4E13-863B-5C70032CE734}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week3_lab", "week3_lab", "{24155704-2D9D-44CD-BE33-707A6E513AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week3_lab", "week3_lab\week3_lab\week3_lab.csproj", "{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{495D35C9-7AD6-4E13-863B-5C70032CE734}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495D35C9-7AD6-4E13-863B-5C70032CE734}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495D35C9-7AD6-4E13-863B-5C70032CE734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{495D35C9-7AD6-4E13-863B-5C70032CE734} = {9ADF9157-19AF-4E30-A9EA-9C4D8D23462D}
+		{A6F59B0F-6A0B-4A0D-92AE-94A302C9B8E3} = {24155704-2D9D-44CD-BE33-707A6E513AB7}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\bin\Debug\net8.0\week3_lab.exe
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\bin\Debug\net8.0\week3_lab.deps.json
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\bin\Debug\net8.0\week3_lab.runtimeconfig.json
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\bin\Debug\net8.0\week3_lab.dll
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\bin\Debug\net8.0\week3_lab.pdb
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.AssemblyInfoInputs.cache
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.AssemblyInfo.cs
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.csproj.CoreCompileInputs.cache
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.sourcelink.json
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.dll
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\refint\week3_lab.dll
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.pdb
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\week3_lab.genruntimeconfig.cache
+c:\Users\austin\advanced_programing\advanced_programing\week3_lab\week3_lab\obj\Debug\net8.0\ref\week3_lab.dll
